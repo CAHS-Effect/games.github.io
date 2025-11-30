@@ -1,1 +1,1 @@
-# cahs-effect-games.github.io
+# games.github.io
